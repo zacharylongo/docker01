@@ -1,2 +1,1 @@
-hostname
-hostname
+MGMT01
